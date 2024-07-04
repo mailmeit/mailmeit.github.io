@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mailmeit.github.io/sitemap
+Sitemap: https://mailmeit.github.io/app/sitemap
+Sitemap: https://mailmeit.github.io/assets/sitemap
+Sitemap: https://mailmeit.github.io/css/sitemap
+Sitemap: https://mailmeit.github.io/includes/sitemap
+Sitemap: https://mailmeit.github.io/item/sitemap
+Sitemap: https://mailmeit.github.io/src/sitemap
